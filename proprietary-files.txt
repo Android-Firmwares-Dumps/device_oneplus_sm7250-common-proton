@@ -201,7 +201,7 @@ system_ext/lib64/vendor.qti.hardware.data.iwlan@1.0.so
 system_ext/lib64/vendor.qti.hardware.data.qmi@1.0.so
 
 # Dax - 8 Pro modified to work with Moto Dolby
-vendor/etc/dolby/dax-default.xml|de2be9e271684fc0493eb67b6dcb03d0100c409e
+vendor/etc/dolby/dax-default.xml|7161461c833cfe6afd512bf1d5277d933394ddde
 
 # Dolby - from sofiap_ao_eea-user-11-RPR31.Q4U-20-26-2-a10bb-release-keys
 -system/app/MotoDolbyV3/MotoDolbyV3.apk|3f046972b1fc314dc6663f450eb169ebf95ee3c0
@@ -983,7 +983,6 @@ vendor/etc/init/wfdvndservice.rc
 vendor/etc/seccomp_policy/wfdhdcphalservice.policy
 vendor/etc/seccomp_policy/wfdvndservice.policy
 vendor/etc/seccomp_policy/wifidisplayhalservice.policy
-vendor/etc/ArmHDCP_QTI_Android.cfg
 vendor/etc/wfdconfig.xml
 vendor/lib/libFileMux_proprietary.so
 vendor/lib/libmm-hdcpmgr.so
